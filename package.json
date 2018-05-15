@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^4.16.3",
+    "hoek": "^5.0.3",
     "parse-server": "^2.7.4"
   }
 }
